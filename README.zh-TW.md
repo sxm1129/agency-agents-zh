@@ -14,13 +14,13 @@ Chinese community edition of [agency-agents](https://github.com/msitarzewski/age
 
 | 🤖 AI 智能體 | 🌏 英文版翻譯 | 🇨🇳 中國市場原創 | 🧠 支援工具 |
 |:---:|:---:|:---:|:---:|
-| **176** | **135** | **41** | **11 種** |
+| **180** | **135** | **45** | **11 種** |
 
 ---
 
 ## 這是什麼？
 
-**176 個即插即用的 AI 專家人格**——每個都有獨特的專業技能、溝通風格和可落地的工作流，不是通用模板。
+**180 個即插即用的 AI 專家人格**——每個都有獨特的專業技能、溝通風格和可落地的工作流，不是通用模板。
 
 ---
 
@@ -97,6 +97,9 @@ cp -r marketing/*.md ~/.claude/agents/
 | [技術文件工程師](engineering/engineering-technical-writer.md) | API 文件、開發者文件、docs-as-code | 技術文件、知識庫 |
 | [自主最佳化架構師](engineering/engineering-autonomous-optimization-architect.md) | 自適應系統、自動調優 | 智慧運維、自愈系統 |
 | [嵌入式韌體工程師](engineering/engineering-embedded-firmware-engineer.md) | RTOS、外設驅動、低功耗設計 | IoT、嵌入式系統 |
+| [嵌入式 Linux 驅動工程師](engineering/engineering-embedded-linux-driver-engineer.md) ⭐ | 核心模組、裝置樹、Platform/I2C/SPI 驅動 | 嵌入式 Linux BSP 開發 |
+| [FPGA/ASIC 數位設計工程師](engineering/engineering-fpga-digital-design-engineer.md) ⭐ | Verilog/SystemVerilog、時序收斂、AXI 匯流排 | FPGA 開發、數位邏輯設計 |
+| [IoT 方案架構師](engineering/engineering-iot-solution-architect.md) ⭐ | MQTT/CoAP、邊緣運算、裝置管理、雲平臺 | 物聯網端到端方案設計 |
 | [故障響應指揮官](engineering/engineering-incident-response-commander.md) | 故障處置、SLO 管理、事後覆盤 | 線上故障、應急響應 |
 | [威脅檢測工程師](engineering/engineering-threat-detection-engineer.md) | SIEM、威脅狩獵、檢測規則 | 安全運營、威脅檢測 |
 | [Solidity 智慧合約工程師](engineering/engineering-solidity-smart-contract-engineer.md) | Solidity、EVM、Gas 最佳化、DeFi | 智慧合約開發、Web3 |
@@ -283,6 +286,7 @@ cp -r marketing/*.md ~/.claude/agents/
 | [測試結果分析師](testing/testing-test-results-analyzer.md) | 測試資料分析、質量度量 | 質量趨勢、釋出決策 |
 | [工具評估師](testing/testing-tool-evaluator.md) | 工具選型、功能對比 | 技術選型、工具採購 |
 | [工作流最佳化師](testing/testing-workflow-optimizer.md) | 流程分析、自動化 | 效率提升、流程改進 |
+| [嵌入式測試工程師](testing/testing-embedded-qa-engineer.md) ⭐ | HIL 測試、韌體自動化測試、EMC 測試 | 嵌入式質量保障、量產測試 |
 
 ### 🤝 支援部
 
